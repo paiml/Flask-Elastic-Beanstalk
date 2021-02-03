@@ -6,7 +6,6 @@ Note, the best way to use this repo is to "fork it", delete the .elasticbeanstal
 ![eb-deploy](https://user-images.githubusercontent.com/58792/106804626-a3a81900-6633-11eb-9cf6-54c24af6827f.png)
 
 
-
 ### Deploy via AWs Cloud9 + AWS Code Build
 
 *You can refer to tutorial [here as well for Flask EB](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)*
@@ -34,4 +33,5 @@ D. Create remote eb instance
 
 ### Other Resources
 
+[This is a good resource](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-flask.html)
 [Previous YouTube Walkthrough](https://youtu.be/iSv-i1tWpQc)
